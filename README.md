@@ -1,7 +1,7 @@
 ### Welcome to AH's Code Hut 🏠
 
 <p >
-  <a href="https://hussain-ashara.000webhostapp.com/">Website</a> •
+  <a href="https://hussain-ashara.000webhostapp.com/" target="_blank">Website</a> •
   <a href="https://github.com/hussainashara">GitHub</a> •
   <a href="https://www.linkedin.com/in/hussain-ashara-945318192/">Linkedin</a> •
   <a href="https://www.hackerrank.com/hussain_ashara11">Hackerrank</a>
