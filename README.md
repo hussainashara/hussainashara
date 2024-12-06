@@ -9,8 +9,6 @@
 
 Hi, I'm <b>Hussain</b> ,I am currently pursuing IT engineering at Dharamsinh Desai University.I am an web developer and an app developer.I am also good with python and I also have lots of interest in automation and AI.
 
-![Hussain's github stats](https://github-readme-stats.vercel.app/api/?username=hussainashara&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
-
 
 
 
